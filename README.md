@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/1y0n/AV_Evasion_Tool/blob/master/images/2021.ico">
-</p>
-
-<p align="center">
-  <img width="374" height="50" src="https://github.com/1y0n/AV_Evasion_Tool/blob/master/images/xred.team.png">
+  <img width="500" src="https://github.com/1y0n/AV_Evasion_Tool/blob/master/images/eaaslogo.png">
 </p>
 
 
 <h1 align="center">掩日 - 适用于红队的综合免杀工具</h1>
 
+<strong>重大更新：此项目现已更新为在线版，可使用 PC 浏览器访问 https://eaas.xred.team/ 进行体验。</strong>
+
+---
+注意：开源版本已停止更新。
 
 ## 声明
 
